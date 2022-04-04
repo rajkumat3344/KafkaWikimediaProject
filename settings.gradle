@@ -1,2 +1,3 @@
 rootProject.name = 'KafkaWikimediaProject'
+include 'Kafka-OpenSearch-Project'
 

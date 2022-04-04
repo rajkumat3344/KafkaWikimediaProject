@@ -13,7 +13,7 @@ import java.util.concurrent.TimeUnit;
 public class WikimediaChangesProducer {
     public static void main(String[] args) throws InterruptedException {
 
-        String bootstrapServers = "localhost:9093";
+        String bootstrapServers = "localhost:9094";
 
         //Create Producer Properties
         Properties prop = new Properties();
